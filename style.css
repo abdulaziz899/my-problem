@@ -190,8 +190,9 @@ background-image: url(image/dream-bg.png);
 }
 .fines{
     width: 100%;
-    display: flex;
+
     padding: 25px 0px;
+    display: flex;
     background-image: url(image/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left center ;
